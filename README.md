@@ -1,28 +1,36 @@
-# Clémence · Data Analyst
+# Clemence Core
 
-Turning public data into clear, useful insights through **Python, SQL and interactive visualisation**.
+**Data Analyst · Python · SQL · Data Visualisation**
 
-[Explore my live project →](https://ou-habiter-clemence.web.app/en/) · [Project repository](https://github.com/clemence6/france-quality-of-life) · [LinkedIn](https://www.linkedin.com/in/clemence-core-462648216/)
+A portfolio focused on turning public data into clear, practical insights—from collection and cleaning to analysis, automated quality checks and interactive visualisation.
+
+[Explore the live portfolio →](https://ou-habiter-clemence.web.app/en/) · [View the featured project](https://github.com/clemence6/france-quality-of-life) · [Connect on LinkedIn](https://www.linkedin.com/in/clemence-core-462648216/)
 
 ## Featured project · Where to live in France?
 
 **Which cities fit your housing budget and everyday priorities?**
 
-An interactive analysis of **20 French cities**, combining property transactions, mapped services, air measurements and recorded hazards. Choose a budget and a service priority to explore up to three matching cities, then compare the indicators on the map and dashboard.
+An interactive analysis of **20 French cities**, bringing together property transactions, mapped services, air measurements and recorded hazards. Set a housing budget, select a service priority and explore up to three matching cities. Use the map and dashboard to compare the indicators and understand the trade-offs.
 
-[Open the app](https://ou-habiter-clemence.web.app/en/) · [Read the code & methodology](https://github.com/clemence6/france-quality-of-life) · [See the daily data audit](https://ou-habiter-clemence.web.app/data/audit.json)
+### What the project demonstrates
 
-### From source to insight
+| Area | Work delivered |
+| --- | --- |
+| **Data preparation** | Python API clients, pandas cleaning, municipality matching and property transaction filtering |
+| **Analysis** | Housing price medians, service comparisons and clearly documented analytical choices |
+| **Quality & automation** | Automated tests, daily GitHub Actions collection and an audit of published observations |
+| **Visualisation & delivery** | An interactive MapLibre map, SVG dashboards, Supabase storage and a bilingual website on Firebase |
 
-- **Collect & prepare:** Python API clients, pandas cleaning and municipality matching.
-- **Analyse & explain:** housing medians, service comparisons and documented analytical choices.
-- **Check & automate:** tests, daily GitHub Actions collection and an audit linked to the published observations.
-- **Build & share:** PostgreSQL through Supabase, a MapLibre map, interactive SVG charts and a bilingual website hosted on Firebase.
+[Live application](https://ou-habiter-clemence.web.app/en/) · [Code & methodology](https://github.com/clemence6/france-quality-of-life) · [Daily data audit](https://ou-habiter-clemence.web.app/data/audit.json)
 
-**Tools used:** Python · pandas · SQL / PostgreSQL · Supabase · GitHub Actions · JavaScript · MapLibre · Firebase
+## Technical toolkit
 
-## Let’s connect
+**Data:** Python · pandas · SQL / PostgreSQL  
+**Automation & storage:** GitHub Actions · Supabase  
+**Visualisation & deployment:** JavaScript · MapLibre · SVG · Firebase
 
-Interested in data analyst opportunities and conversations about practical, evidence-based analysis.
+## Contact
 
-[Contact me on LinkedIn →](https://www.linkedin.com/in/clemence-core-462648216/)
+Open to data analyst opportunities and conversations about practical, evidence-based analysis.
+
+[Contact Clemence Core on LinkedIn →](https://www.linkedin.com/in/clemence-core-462648216/)
