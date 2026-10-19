@@ -2,7 +2,7 @@
 
 **Data Analyst · Python · SQL · Data Visualisation**
 
-A portfolio focused on turning public data into clear, practical insights—from collection and cleaning to analysis, automated quality checks and interactive visualisation.
+This portfolio brings together data collection, cleaning, analysis and interactive visualisation, with automated checks to keep the results traceable and useful.
 
 [Explore the live portfolio →](https://ou-habiter-clemence.web.app/en/) · [View the featured project](https://github.com/clemence6/france-quality-of-life) · [Connect on LinkedIn](https://www.linkedin.com/in/clemence-core-462648216/)
 
