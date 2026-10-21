@@ -1,36 +1,47 @@
 # Clemence Core
 
-**Data Analyst · Python · SQL · Data Visualisation**
+### Data Analyst who codes
 
-This portfolio brings together data collection, cleaning, analysis and interactive visualisation, with automated checks to keep the results traceable and useful.
+Hi, I’m Clemence. I have **5 years of experience in data**, combining Data Engineering, Business Intelligence and automation. I build data solutions from collection and processing to dashboards, working with both technical and business teams.
 
-[Explore the live portfolio →](https://ou-habiter-clemence.web.app/en/) · [View the featured project](https://github.com/clemence6/france-quality-of-life) · [Connect on LinkedIn](https://www.linkedin.com/in/clemence-core-462648216/)
+I enjoy solving messy data problems, replacing repetitive tasks with code and making the results easy to use.
 
-## Featured project · Where to live in France?
+[Explore my portfolio](https://ou-habiter-clemence.web.app/en/) · [Browse my featured project](https://github.com/clemence6/france-quality-of-life) · [Let’s connect on LinkedIn](https://www.linkedin.com/in/clemence-core-462648216/)
 
-**Which cities fit your housing budget and everyday priorities?**
+## What I build
 
-An interactive analysis of **20 French cities**, bringing together property transactions, mapped services, air measurements and recorded hazards. Set a housing budget, select a service priority and explore up to three matching cities. Use the map and dashboard to compare the indicators and understand the trade-offs.
+- **Data pipelines:** Python scripts, API integrations and SQL transformations that turn raw inputs into structured datasets.
+- **Automation & quality:** scheduled workflows, automated tests and checks that make data easier to maintain and trust.
+- **Dashboards & analysis:** clear indicators and interactive visualisations that connect technical work with business questions.
 
-### What the project demonstrates
+## Featured project: Où habiter?
 
-| Area | Work delivered |
-| --- | --- |
-| **Data preparation** | Python API clients, pandas cleaning, municipality matching and property transaction filtering |
-| **Analysis** | Housing price medians, service comparisons and clearly documented analytical choices |
-| **Quality & automation** | Automated tests, daily GitHub Actions collection and an audit of published observations |
-| **Visualisation & delivery** | An interactive MapLibre map, SVG dashboards, Supabase storage and a bilingual website on Firebase |
+**A question, a data pipeline, a working application.**
 
-[Live application](https://ou-habiter-clemence.web.app/en/) · [Code & methodology](https://github.com/clemence6/france-quality-of-life) · [Daily data audit](https://ou-habiter-clemence.web.app/data/audit.json)
+I built a bilingual application to explore housing prices, everyday services, air measurements and recorded hazards across **20 French cities**. Choose a budget and a service priority, then compare the cities that fit.
 
-## Technical toolkit
+```text
+Public APIs & CSV files
+        ↓
+Python / pandas: collect, clean, validate
+        ↓
+Supabase / PostgreSQL: store and document
+        ↓
+JavaScript: interactive map and dashboards
+```
 
-**Data:** Python · pandas · SQL / PostgreSQL  
-**Automation & storage:** GitHub Actions · Supabase  
-**Visualisation & deployment:** JavaScript · MapLibre · SVG · Firebase
+Daily collection and data audits run through **GitHub Actions**. The website is hosted on **Firebase**, with source dates and analytical choices available alongside the results.
 
-## Contact
+[Try the app](https://ou-habiter-clemence.web.app/en/) · [Read the code](https://github.com/clemence6/france-quality-of-life) · [Open the data audit](https://ou-habiter-clemence.web.app/data/audit.json)
 
-Open to data analyst opportunities and conversations about practical, evidence-based analysis.
+## My toolkit
 
-[Contact Clemence Core on LinkedIn →](https://www.linkedin.com/in/clemence-core-462648216/)
+**Data:** `Python` `pandas` `SQL` `PostgreSQL`
+
+**Automation & delivery:** `APIs` `GitHub Actions` `Supabase` `Firebase`
+
+**Visualisation:** `JavaScript` `MapLibre` `SVG`
+
+## Let’s talk data
+
+Have a data challenge, a project or an opportunity? [Get in touch on LinkedIn](https://www.linkedin.com/in/clemence-core-462648216/).
